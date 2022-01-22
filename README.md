@@ -1,0 +1,1 @@
+In this project i learned how to make lists (ordinated and not), how to include images on the website, how to use headers and relative links.
